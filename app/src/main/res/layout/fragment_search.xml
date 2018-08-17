@@ -1,0 +1,54 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.mmlab.m1.fragment.MenuLogFragment"
+    android:orientation="vertical"
+    android:background="@color/cardview_light_background">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <Button
+        android:text="@string/poi"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/button_search_POI"
+        android:layout_weight="1"
+        android:background="@color/cardview_light_background"
+        android:onClick="btn_Search" />
+
+    <Button
+        android:text="@string/loi"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/button_search_LOI"
+        android:layout_weight="1"
+        android:background="@color/cardview_light_background"
+        android:onClick="btn_Search" />
+
+    <Button
+        android:text="@string/aoi"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/button_search_AOI"
+        android:layout_weight="1"
+        android:background="@color/cardview_light_background"
+        android:onClick="btn_Search" />
+
+    <Button
+        android:text="@string/soi"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/button_search_SOI"
+        android:layout_weight="1"
+        android:background="@color/cardview_light_background"
+        android:onClick="btn_Search" />
+
+    <Button
+        android:text="@string/my_favorite"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/button_my_fav"
+        android:layout_weight="1"
+        android:background="@color/cardview_light_background" />
+</LinearLayout>

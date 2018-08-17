@@ -1,0 +1,229 @@
+<resources>
+    <string name="app_name" translatable="false">DEH Mini II</string>
+    <string name="title_activity_poi" translatable="false">POIActivity</string>
+    <string name="title_activity_loi" translatable="false">LOIActivity</string>
+    <string name="title_activity_aoi" translatable="false">AOIActivity</string>
+    <string name="title_activity_album" translatable="false">AlbumActivity</string>
+    <string name="title_activity_my_favorite" translatable="false">MyFavoriteActivity</string>
+    <string name="title_activity_video_demo" translatable="false">VideoDemoActivity</string>
+    <string name="title_activity_intro" translatable="false">IntroActivity</string>
+    <string name="title_activity_map" translatable="false">MapActivity</string>
+    <string name="title_activity_sign_in" translatable="false">SignInActivity</string>
+    <string name="title_activity_friend" translatable="false">FriendActivity</string>
+    <string name="action_settings" translatable="false">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="title_dialog_identity">Choosing Identity</string>
+    <string name="message_dialog_identity">Identity Option</string>
+
+    <string name="title_dialog_network">Internet Connection</string>
+    <string name="confirm">Confirm</string>
+    <string name="cancel">Cancel</string>
+    <string name="direction">Direction</string>
+    <string name="website">Website</string>
+    <string name="shutdown">Close</string>
+
+
+    <string name="drawer_default">點選右上圖示搜尋附近資料</string>
+    <string name="drawer_item_home">Home</string>
+    <string name="drawer_item_sign_in">Sign In</string>
+    <string name="drawer_item_help">Help</string>
+    <string name="drawer_item_contact">Contact</string>
+    <string name="drawer_item_friends">Friends</string>
+    <string name="drawer_item_favorite">Favorite</string>
+    <string name="logout_detail">Are you sure you want to log out</string>
+    <string name="logout_title">Log Out</string>
+    <string name="navigation_drawer_open">Dopen</string>
+    <string name="navigation_drawer_close">Dclose</string>
+
+    <string name="region">Region</string>
+    <string name="meter">m</string>
+    <string name="kilometer">km</string>
+    <string name="number">Number</string>
+    <string name="unit"></string>
+    <string name="search_settings">DEH Search Settings</string>
+    <string name="search">Search</string>
+    <string name="poi">Nearby POI</string>
+    <string name="loi">Nearby LOI</string>
+    <string name="aoi">Nearby AOI</string>
+    <string name="soi">NearBy SOI</string>
+    <string name="mypoi">My POI</string>
+    <string name="myloi">MY LOI</string>
+    <string name="myaoi">My AOI</string>
+
+    <string name="subject">Subject</string>
+    <string name="type1">Type</string>
+    <string name="keyword">Keyword</string>
+    <string name="address">Address</string>
+    <string name="info">Info</string>
+    <string name="album">Album</string>
+
+    <string name="title_dialog_hotspot">Setting Wi-Fi Hotspot</string>
+    <string name="save">Save</string>
+
+    <string name="no_internet_title">No Internet</string>
+    <string name="internet_detail">Open Internet settings</string>
+    <string name="add_to_favorite">Add to favorite success</string>
+    <string name="cancel_add_to_favorite">Remove from favorite</string>
+
+    <string name="expert">Expert</string>
+    <string name="user">User</string>
+    <string name="narrator">Narrator</string>
+
+    <string name="group_tour">Group Tour</string>
+    <string name="member">Member</string>
+    <string name="personal_tour">Personal tour</string>
+    <string name="personal">Personal</string>
+    <string name="travel_tour">Travel Tour</string>
+    <string name="historical_sites">Historical Sites</string>
+    <string name="instant_sharing">Instant Sharing</string>
+    <string name="ssid">SSID</string>
+    <string name="security">Security</string>
+    <string name="password">Password</string>
+    <string name="show_password">Show Password</string>
+    <string name="password_notice">Password should be at least 8 characters</string>
+    <string name="open">Public</string>
+    <string name="close">Private</string>
+    <string name="filter">Filter</string>
+    <string name="identifier">Identifier</string>
+    <string name="about_deh">About DEH Mini</string>
+    <string name="media">Media</string>
+    <string name="category">Format</string>
+    <string name="deh_sign_in">DEH Log In</string>
+    <string name="account">Account</string>
+    <string name="deh_logout">DEH Account Log Out</string>
+    <string name="deh_logout_detail">Are you sure you want to log out ?</string>
+    <string name="sign_out">Log out</string>
+    <string name="login_success">Log In Success</string>
+    <string name="login_failure">Log In Failure</string>
+    <string name="no_deh_login">Not log into DEH yet</string>
+    <string name="find">Find</string>
+    <string name="sites">sites</string>
+    <string name="lines">lines</string>
+    <string name="areas">areas</string>
+    <string name="story">stories</string>
+    <string name="not_found">Can\'t find any sites that match the keyword</string>
+    <string name="not_match">Can\'t find any sites that match the condition</string>
+    <string name="not_found_LOI">Can\'t find any nearby lines.</string>
+    <string name="not_found_AOI">Can\'t find any nearby areas.</string>
+    <string name="not_found_SOI">Can\'t find any nearby stories.</string>
+    <string name="reset">Reset</string>
+    <string name="narrator_info">Narrator Info</string>
+    <string name="update_friends">Update Friends</string>
+
+
+    <string name="filter_notice">The filter is only available for search sites</string>
+    <string name="search_poi_filter">Do you want to search for POI?</string>
+    <string name="Are_you_sure">Are you sure you want to leave?</string>
+    <string name="leave_title">Leave DEH Mini II</string>
+    <string name="send_email">Send email &#8230;</string>
+    <string name="no_email_client">There are no email clients installed</string>
+    <string name="feedback">Feedback</string>
+
+    <string name="connect_network">Please connect network and retry.</string>
+
+    <string name="server_busy">Server is busy, please retry later.</string>
+    <string name="map">Map</string>
+    <string name="location">Location</string>
+    <string name="no_gps_title">Can\'t get the current location</string>
+    <string name="open_gps_setting">Turn on the GPS</string>
+
+    <string name="clear">Clear All</string>
+    <string name="clear_detail">Are you sure you want to clear all favorites?</string>
+    <string name="clear_all">Clear finished</string>
+    <string name="empty">No sites add into My Favorite</string>
+    <string name="exit">Backpress one more time to exit</string>
+    <string name="description_search">search description</string>
+    <string name="log">Log</string>
+    <string name="title_activity_about_dialog">AboutDialog</string>
+    <string name="about">About</string>
+    <string name="setting_deh">Setting DEH Mini</string>
+    <string name="setting">Setting</string>
+    <string name="sign_in">Log in</string>
+    <string name="custom">Custom</string>
+    <string name="change_location">Change Location</string>
+    <string name="search_address">Search Address</string>
+    <string name="search_range">Search Range</string>
+    <string name="search_center">Dynamic Search</string>
+    <string name="search_range_text">Search Range :</string>
+    <string name="search_number">Search Number :</string>
+    <string name="setting_check">Always show search setting</string>
+    <string name="my_POI">My POI</string>
+    <string name="my_LOI">My LOI</string>
+    <string name="my_AOI">My AOI</string>
+    <string name="my_SOI">My SOI</string>
+    <string name="my_favorite">My Favorite</string>
+    <string name="title_activity_soi">SOIActivity</string>
+    <string name="notice">Notice</string>
+    <string name="poi_info">POI   Information</string>
+    <string name="poi_share">POI SHARE</string>
+    <string name="loi_info">LOI   Information</string>
+    <string name="aoi_info">AOI   Information</string>
+    <string name="soi_info">SOI   Information</string>
+    <string name="path_count">Road    Navigation</string>
+    <string name="docent_info" translatable="false">http://deh.csie.ncku.edu.tw:8080/api/v1/docent/</string>
+    <string name="expert_poi" translatable="false">http://deh.csie.ncku.edu.tw:8080/api/v1/expert/pois</string>
+    <string name="player_poi" translatable="false">http://deh.csie.ncku.edu.tw:8080/api/v1/player/pois</string>
+    <string name="docent_poi" translatable="false">http://deh.csie.ncku.edu.tw:8080/api/v1/docent/pois</string>
+    <string name="my_site"></string>
+
+    <string name="slide1">Click about</string>
+    <string name="slide2">Click website</string>
+    <string name="slide3">Go website</string>
+    <string name="slide4">Click login</string>
+    <string name="slide5">Enter account and password</string>
+    <string name="slide6">Display login icon</string>
+    <string name="slide7">Click setting</string>
+    <string name="slide8">If open the address search</string>
+    <string name="slide9">Display the icon on map</string>
+    <string name="slide10">Click any where in map,will display dot and address</string>
+
+    <string name="slide11">If open dynamic search</string>
+    <string name="slide12">A \"cross symbol\" appears on the map, and you can click any location to search for nearby content</string>
+    <string name="slide13">If the \"search range\" is turned on and the column is set to range</string>
+    <string name="slide14">Select search result</string>
+    <string name="slide15">List search result</string>
+    <string name="slide16">Click blue sign , can see the range of purple circle</string>
+    <string name="slide17">Setting search number</string>
+    <string name="slide18">Select search content</string>
+    <string name="slide19">"List total number of search result "</string>
+    <string name="slide20">Select my POI</string>
+
+    <string name="slide21">Watch my POI</string>
+    <string name="slide22">Select my LOI</string>
+    <string name="slide23">Watch my LOI</string>
+    <string name="slide24">Select my AOI</string>
+    <string name="slide25">Watch my AOI</string>
+    <string name="slide26">Select my SOI</string>
+    <string name="slide27">Watch my SOI</string>
+    <string name="slide28">Select player\'s role</string>
+    <string name="slide29">Select media type</string>
+    <string name="slide30">Click search category</string>
+
+    <string name="slide31">Click nearby POI</string>
+    <string name="slide32">Watch POI\'s nearby user</string>
+    <string name="slide33">Click POI\'s information</string>
+    <string name="slide34">Watch POI\'s information</string>
+    <string name="slide35">Select POI</string>
+    <string name="slide36">Select route planning</string>
+    <string name="slide37">Get directions to Google Map</string>
+    <string name="slide38">Select nearby LOI</string>
+    <string name="slide39">You can also see the attractions of the information, you can plan routes, you can route planning</string>
+    <string name="slide40">Click LOI\'s information</string>
+
+    <string name="slide41">Watch LOI\'s information</string>
+    <string name="slide42">Select nearby AOI</string>
+    <string name="slide43">Click AOI\'s information</string>
+    <string name="slide44">Watch AOI\'s information</string>
+    <string name="slide45">Select nearby SOI</string>
+    <string name="slide46">Click SOI\'s information</string>
+    <string name="slide47">Watch SOI\'s information</string>
+    <string name="slide48">Click my favorite</string>
+    <string name="slide49">Can see add in list of my favorite</string>
+
+
+    <string name="description">Instruction</string>
+
+
+</resources>

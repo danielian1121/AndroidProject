@@ -1,0 +1,41 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.mmlab.m1.fragment.MenuLogFragment"
+    android:orientation="vertical"
+    android:background="@color/cardview_light_background">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <Button
+        android:text="@string/about"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/button_about"
+        android:layout_weight="1"
+        android:background="@color/cardview_light_background" />
+
+    <Button
+        android:text="@string/setting"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/button_setting"
+        android:layout_weight="1"
+        android:background="@color/cardview_light_background" />
+
+    <Button
+        android:text="@string/sign_in"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/button_sign_in"
+        android:layout_weight="1"
+        android:background="@color/cardview_light_background" />
+    <Button
+        android:text="@string/description"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/button_description"
+        android:layout_weight="1"
+        android:background="@color/cardview_light_background" />
+</LinearLayout>

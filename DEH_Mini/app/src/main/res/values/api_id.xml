@@ -1,0 +1,7 @@
+<resources>
+    <string name="facebook_app_id" translatable="false">150436122026765</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">
+        AIzaSyA3tR6dKvDY0IyKPBp_PuNy8GG17yhVJ7I
+    </string>
+    <integer name="google_play_services_version" translatable="false">8487000</integer>
+</resources>

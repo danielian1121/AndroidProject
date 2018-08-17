@@ -1,0 +1,45 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.mmlab.m1.fragment.MySiteFragment"
+    android:orientation="vertical"
+    android:background="@color/cardview_light_background">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <Button
+        android:text="@string/my_POI"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/button_my_POI"
+        android:layout_weight="1"
+        android:background="@color/cardview_light_background"
+        android:onClick="btn_Site" />
+
+    <Button
+        android:text="@string/my_LOI"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/button_my_LOI"
+        android:layout_weight="1"
+        android:background="@color/cardview_light_background"
+        android:onClick="btn_Site" />
+
+    <Button
+        android:text="@string/my_AOI"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/button_my_AOI"
+        android:layout_weight="1"
+        android:background="@color/cardview_light_background"
+        android:onClick="btn_Site" />
+    <Button
+        android:text="@string/my_SOI"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/button_my_SOI"
+        android:layout_weight="1"
+        android:background="@color/cardview_light_background"
+        android:onClick="btn_Site" />
+</LinearLayout>

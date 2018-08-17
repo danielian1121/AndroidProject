@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- IP-->
+    <item name="api_clientIP" type="string" translatable="false">
+        http://deh.csie.ncku.edu.tw/deh/functions/get_client_ip.php
+    </item>
+    <item name="decrypt_deh" type="string" translatable="false">
+        DEH2014@CSIENCKU
+    </item>
+
+    <item name="api_docent_info" type="string" translatable="false">
+        http://deh.csie.ncku.edu.tw:8080/api/v1/docents/
+    </item>
+
+    <!-- POI -->
+    <item name="api_nearbyPOIs" type="string" translatable="false">
+        http://deh.csie.ncku.edu.tw:8080/api/v1/pois
+    </item>
+
+    <!-- LOI -->
+    <item name="api_nearbyLOIs" type="string" translatable="false">
+        http://deh.csie.ncku.edu.tw:8080/api/v1/lois
+    </item>
+    <item name="api_loi_seq" type="string" translatable="false">
+        http://deh.csie.ncku.edu.tw:8080/api/v1/lois/search?q=
+    </item>
+    <item name="api_poi_id" type="string" translatable="false">
+        http://deh.csie.ncku.edu.tw:8080/api/v1/pois/search?q=
+    </item>
+
+    <!-- AOI -->
+    <item name="api_nearbyAOIs" type="string" translatable="false">
+        http://deh.csie.ncku.edu.tw:8080/api/v1/aois
+    </item>
+    <item name="api_aoi_seq" type="string" translatable="false">
+        http://deh.csie.ncku.edu.tw:8080/api/v1/aois/search?q=
+    </item>
+    <!-- SOI -->
+    <item name="api_nearbySOIs" type="string" translatable="false">
+        http://deh.csie.ncku.edu.tw:8080/api/v1/sois
+    </item>
+    <item name="api_soi_seq" type="string" translatable="false">
+        http://deh.csie.ncku.edu.tw:8080/api/v1/sois/search?q=
+    </item>
+    <!-- USER POI -->
+    <item name="api_userPOIs" type="string" translatable="false">
+        http://deh.csie.ncku.edu.tw:8080/api/v1/users/pois
+    </item>
+
+    <!-- USER LOI -->
+    <item name="api_userLOIs" type="string" translatable="false">
+        http://deh.csie.ncku.edu.tw:8080/api/v1/users/lois
+    </item>
+
+    <!-- USER AOI -->
+    <item name="api_userAOIs" type="string" translatable="false">
+        http://deh.csie.ncku.edu.tw:8080/api/v1/users/aois
+    </item>
+    <!-- USER SOI -->
+    <item name="api_userSOIs" type="string" translatable="false">
+        http://deh.csie.ncku.edu.tw:8080/api/v1/users/sois
+    </item>
+
+    <item name="api_dehLogIn" type="string" translatable="false">
+        http://140.116.82.130:8080/api/v1/users/login
+    </item>
+
+    <item name="deh_email" type="string" translatable="false">
+        mmnetlab@gmail.com
+    </item>
+
+</resources>

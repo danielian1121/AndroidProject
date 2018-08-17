@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@drawable/round"
+    >
+    <TextView
+        android:textSize="16sp"
+        android:textColor="@android:color/black"
+        android:id="@id/title"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:layout_centerHorizontal="true" />
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_below="@+id/title"
+        android:layout_height="match_parent">
+
+        <Button
+            android:text="@string/poi_info"
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            android:id="@+id/poi_inform"
+            android:layout_weight="1"
+            android:textSize="12sp"
+            android:textAllCaps="false"
+            />
+
+        <Button
+            android:text="@string/poi_share"
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            android:id="@+id/poi_share"
+            android:textSize="12sp"
+            android:layout_weight="1"
+            android:textAllCaps="false"/>
+
+        <Button
+            android:text="@string/path_count"
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            android:id="@+id/poi_guide"
+            android:textSize="12sp"
+            android:layout_weight="1"
+            android:textAllCaps="false"/>
+    </LinearLayout>
+
+
+</RelativeLayout>

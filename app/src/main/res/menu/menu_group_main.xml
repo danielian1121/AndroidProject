@@ -1,0 +1,46 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MainActivity">
+
+
+        <!--<menu >
+            <item android:title="@string/about"
+                android:orderInCategory="1"
+                android:id="@+id/about" />
+            <item android:title="@string/setting"
+                android:orderInCategory="2"
+                android:id="@+id/setting" />
+            <item android:title="@string/sign_in"
+                android:orderInCategory="3"
+                android:id="@+id/deh_sign_in" />
+        </menu>-->
+
+
+    <item android:title="@string/my_site"
+
+        app:showAsAction="always"
+        android:id="@+id/my_site"
+        android:icon="@android:drawable/ic_menu_myplaces" >
+        <!--<menu >
+            <item android:title="@string/my_POI"
+                android:id="@+id/my_POI" />
+            <item android:title="@string/my_LOI"
+                android:id="@+id/my_LOI" />
+            <item android:title="@string/my_AOI"
+                android:id="@+id/my_AOI" />
+            <item android:title="@string/my_favorite"
+                android:id="@+id/my_favorite" />
+        </menu>-->
+    </item>
+    <item android:title="@string/filter"
+        android:id="@+id/filter"
+        android:icon="@android:drawable/ic_menu_sort_by_size"
+        app:showAsAction="always" />
+    <item
+        android:icon="@drawable/ic_search_white_24dp"
+        android:id="@+id/fab"
+        app:showAsAction="always"
+        android:title="@string/search" />
+
+
+</menu>
